@@ -3,3 +3,7 @@
 /mt on
 /mt off
 /invsee Benjamin904
+/skin set Leo728
+/skin set
+/skin set Benjamin904 Benjamin904
+/simplescoreboard:sbreload

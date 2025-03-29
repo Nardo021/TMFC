@@ -1,9 +1,9 @@
 {
   "name": "TMFC Cycle 3 (1.21.1)",
   "author": "Leo728",
-  "version": "1.0",
+  "version": "1.1",
   "description": "",
-  "fileApi": "https://raw.githubusercontent.com/Nardo021/TMFC/refs/heads/main",
+  "fileApi": "https://raw.githubusercontent.com/Nardo021/TMFC/refs/heads/main/README.md",
   "files": [
     {
       "path": "log4j2.xml",
@@ -31,35 +31,35 @@
     },
     {
       "path": "xaero/world-map/Multiplayer_127.0.0.1/null/mw$462305337/0_0.zip",
-      "hash": "c2a12a27ed4d7a833c5ccb9fdc65acfbda8e4324"
+      "hash": "f0d9c821af560d62afc803720bf05fecc52edc20"
     },
     {
       "path": "xaero/world-map/Multiplayer_127.0.0.1/null/mw$462305337/cache_1/0_-1.xwmc.outdated",
-      "hash": "5657eb045816b218f86fd5f1833ca7f2c3f7b9a8"
+      "hash": "e9a05f8c0bd1d4e9faa2f2952c5583dc4fd42f09"
     },
     {
       "path": "xaero/world-map/Multiplayer_127.0.0.1/null/mw$462305337/cache_1/-1_-1.xwmc.outdated",
-      "hash": "4e9852ff49a9801042d27fa66fc81ab9387d7a54"
+      "hash": "4614c52dc35032f732cb66112723a71eb84d6758"
     },
     {
       "path": "xaero/world-map/Multiplayer_127.0.0.1/null/mw$462305337/cache_1/0_0.xwmc.outdated",
-      "hash": "ed6bce1e96d79fe6fefe3f20599b94d6184d7601"
+      "hash": "5f6067758564e3d2da1441ed22af9da2a2776984"
     },
     {
       "path": "xaero/world-map/Multiplayer_127.0.0.1/null/mw$462305337/cache_1/-1_0.xwmc.outdated",
-      "hash": "b63165cb5f35a1b1eeda6c83610626200da557a7"
+      "hash": "0f54b5867a2a23c16dd6ebe83d49018cb155f91b"
     },
     {
       "path": "xaero/world-map/Multiplayer_127.0.0.1/null/mw$462305337/0_-1.zip",
-      "hash": "f211510a94ac150959d1629011b0c898803cc35d"
+      "hash": "72094ca2187fe687b8d0f81814fb599bda7090d3"
     },
     {
       "path": "xaero/world-map/Multiplayer_127.0.0.1/null/mw$462305337/-1_0.zip",
-      "hash": "6945a04754dc25236073fce714bdb30186d8df08"
+      "hash": "6cdf327ac941037882e74e1e5c4fc4a64c9b9291"
     },
     {
       "path": "xaero/world-map/Multiplayer_127.0.0.1/null/mw$462305337/-1_-1.zip",
-      "hash": "0ec499e915f53a22c4ac735e963c01d3d41867a5"
+      "hash": "d280fedcd41a863bb06059d7822fcd2a5fad5a79"
     },
     {
       "path": "xaero/minimap/Multiplayer_127.0.0.1/config.txt",
@@ -75,7 +75,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "c5e50ac913fa961824459845724f8efee7c8eca3"
+      "hash": "dcafa4feaf800a9dae55cae085567bc137b67273"
     },
     {
       "path": "config/xaeroworldmap.txt",
@@ -83,7 +83,7 @@
     },
     {
       "path": "config/visible_toggle_sprint/visible_toggle_sprint.toml",
-      "hash": "35b5661799efa9ad13b1d89fb8c08a17f51f183b"
+      "hash": "7ba5a3fa3976f6f1ab4d08307cef72a0364cb9f7"
     },
     {
       "path": "config/sodium-extra-options.json",
@@ -99,7 +99,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "3883f4b50d5c56d0ad5034b4405050f28d9b40de"
+      "hash": "f53212e7f4a92618720786df4470715657238df3"
     },
     {
       "path": "config/appleskin.json5",
@@ -146,6 +146,10 @@
       "hash": "d1f10fbacb91be7ec9b84ad261059c9fb4e5d62f"
     },
     {
+      "path": "config/autotools.properties",
+      "hash": "57c2d25fd7a152468f87bb2700ba66ad1346c4af"
+    },
+    {
       "path": "config/forgeconfigapiport.toml",
       "hash": "aeeeb4ef9c9f80c40defb65c521ec87f8e36e5a7"
     },
@@ -183,7 +187,7 @@
     },
     {
       "path": "config/roughlyenoughitems/pinyin_double.properties",
-      "hash": "a00185ac9f878a5aabb48310e089fd94e9640899"
+      "hash": "34be3c6866c64517beeef0b29216a458d805ef26"
     },
     {
       "path": "config/roughlyenoughitems/config.json5",
@@ -191,7 +195,7 @@
     },
     {
       "path": "config/roughlyenoughitems/pinyin.properties",
-      "hash": "4b0881f3b838b1cddf4ab9fcd829e3934034760c"
+      "hash": "33655f534089a3e8e86f0bb8b01f2212d8cb0f42"
     },
     {
       "path": "config/roughlyenoughitems/hints.json",
@@ -287,7 +291,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "14f01b7e029b5a18c63d396533a616651f4c0754"
+      "hash": "f3b325da8eb2fe46009488c3a8136344fe7f3758"
     },
     {
       "path": "config/ModernUI/text.toml",
@@ -319,7 +323,7 @@
     },
     {
       "path": "config/jade/usernamecache.json",
-      "hash": "8e7f21f5eb77d1f59fcb2c0fded6be747e69ad59"
+      "hash": "4c6896596ec978b0f8e01be16b639e7004408504"
     },
     {
       "path": "config/jade/sort-order.json",
@@ -375,7 +379,7 @@
     },
     {
       "path": "command_history.txt",
-      "hash": "ce8081e8bfec225b7a84f0b9bb59581ec3223fba"
+      "hash": "d4d943da740a8b98d282b5ba8f3b4979d44611bd"
     },
     {
       "path": "local/ftbultimine-client.snbt",
@@ -434,12 +438,20 @@
       "hash": "0ffa4ad99a4c3c930f563ec6595c68b7cd31a283"
     },
     {
+      "path": "mods/autotools-1.21.1-fabric-2.2.jar",
+      "hash": "4763187fc5748e717fe05e871e282efcfdfb6bc9"
+    },
+    {
       "path": "mods/ForgeConfigAPIPort-v21.1.3-1.21.1-Fabric.jar",
       "hash": "e26f1b5dcdb1b05abe9c223bcf47057622afd432"
     },
     {
       "path": "mods/visible_toggle_sprint-1.7.0-fabric.jar",
       "hash": "fc5f3c863d41bd9844ce4af059e4e914cb6f14a9"
+    },
+    {
+      "path": "mods/potentials-fabric-1.21-0.6.2.jar",
+      "hash": "df133255313eb1033f15474f20d2b7bf2dd67962"
     },
     {
       "path": "mods/fabric-api-0.115.3+1.21.1.jar",
@@ -492,6 +504,10 @@
     {
       "path": "mods/fzzy_config-0.6.7+1.21.jar",
       "hash": "3fdb875a57c82f29ecb7277831b05f308829ad78"
+    },
+    {
+      "path": "mods/stellaris-1.21-fabric-1.3.7.jar",
+      "hash": "087984af131c85231d2fe60ba7a0dafc4dd8707a"
     },
     {
       "path": "mods/NoChatReports-FABRIC-1.21.1-v2.9.1.jar",
@@ -647,7 +663,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "da1159fb7543f4a0811f53c78f1a2d9e5d9fba02"
+      "hash": "290fb05f0b3bc34502a64ae758a429b1866e4ae4"
     }
   ],
   "addons": [

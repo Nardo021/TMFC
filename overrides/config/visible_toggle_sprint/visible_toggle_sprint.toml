@@ -2,7 +2,7 @@
 version = 0
 
 [sprint]
-indicator = "STATE_ONLY"
+indicator = "COMBINED"
 
 [sprint.crosshair]
 icon = "STYLISED"
