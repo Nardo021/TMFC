@@ -3,7 +3,7 @@
   "author": "Leo728",
   "version": "1.1",
   "description": "",
-  "fileApi": "https://raw.githubusercontent.com/Nardo021/TMFC/refs/heads/main/README.md",
+  "fileApi": "https://raw.githubusercontent.com/Nardo021/TMFC/refs/heads/main/",
   "files": [
     {
       "path": "log4j2.xml",
