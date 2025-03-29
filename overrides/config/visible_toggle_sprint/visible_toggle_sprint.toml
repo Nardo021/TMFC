@@ -1,0 +1,56 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+
+[sprint]
+indicator = "STATE_ONLY"
+
+[sprint.crosshair]
+icon = "STYLISED"
+enable = true
+x = -6
+y = -6
+
+[sprint.hotbar]
+enable = false
+x = 125
+y = 18
+
+[sprint.text]
+enable = false
+x = 10
+y = 10
+
+[sprint.text.color]
+# Red component, 0 to 255
+r = 255
+# Green component, 0 to 255
+g = 255
+# Blue component, 0 to 255
+b = 255
+
+[sneak]
+indicator = "STATE_ONLY"
+
+[sneak.crosshair]
+icon = "STYLISED"
+enable = true
+x = 1
+y = 1
+
+[sneak.hotbar]
+enable = false
+x = 147
+y = 18
+
+[sneak.text]
+enable = false
+x = 10
+y = 30
+
+[sneak.text.color]
+# Red component, 0 to 255
+r = 255
+# Green component, 0 to 255
+g = 255
+# Blue component, 0 to 255
+b = 255
