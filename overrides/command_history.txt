@@ -1,9 +1,50 @@
-/guiadmintools
-/mt
-/mt on
-/mt off
-/invsee Benjamin904
-/skin set Leo728
-/skin set
 /skin set Benjamin904 Benjamin904
 /simplescoreboard:sbreload
+/news
+/news Benjamin904
+/news
+/admin
+/gamerule keepInventory true
+/gamerule keepInventory
+/iname
+/inform
+/invsee
+/invsee Benjamin904
+/heal @a
+/heal
+/admin
+/tp Benjamin904
+/heal
+/function ija-one-block:main
+/effect give Benjamin904 minecraft:levitation infinite 255 true
+/heal Benjamin904
+/hela
+/heal
+/help
+/head
+/head wear
+/hat
+/lp editor
+/lp trusteditor cea7-8ac2
+/skin set Leo728
+/admin
+/op
+/openpac
+/openpac help
+/admin
+/night
+/day
+/heal
+/heal Benjamin904
+/heal
+/kick Benjamin904
+/heal
+/height
+/height Benjamin904
+/heal
+/jail Benjamin904
+/jails
+/jails Benjamin904
+/heal Benjamin904
+/mt on
+/god
