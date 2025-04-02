@@ -6,32 +6,244 @@
   "fileApi": "https://raw.githubusercontent.com/Nardo021/TMFC/refs/heads/main",
   "files": [
     {
-      "path": "log4j2.xml",
-      "hash": "d47d254675d1aee18670aece5ed768e1e631517b"
-    },
-    {
       "path": "servers.dat",
-      "hash": "37cfc43113f3e223a5f8503e9b9f87719d1ec712"
+      "hash": "af15b97cb1c45a25a1ffa7f8c24761f4f8d41b88"
     },
     {
       "path": "icon.png",
       "hash": "a1469e2f82c030f216bd7745ec2817896f27d748"
     },
     {
-      "path": "defaultconfigs/ftbultimine/ftbultimine-client.snbt",
-      "hash": "79732bfea29a2877d0c9a92d41b01b7eaf5436a1"
+      "path": "xaero/world-map/Multiplayer_124.171.138.67/server_config.txt",
+      "hash": "287435401537a9c3f77b36e640f93da7df77d56e"
     },
     {
-      "path": "XaeroWaypoints_BACKUP240807/Multiplayer_127.0.0.1/config.txt",
+      "path": "xaero/world-map/Multiplayer_124.171.138.67/null/dimension_config.txt",
+      "hash": "a33b2cda96c216eb117bb126578b9564fdc9276c"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.171.138.67/null/mw$462305337/.lock",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.171.138.67/null/mw$462305337/0_0.zip",
+      "hash": "418750ab7093707cc6b534c2addb85f6cd15a4f5"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.171.138.67/null/mw$462305337/0_-1.zip",
+      "hash": "3458f70bac7a1bf14f057bc96c31412ef39f1b85"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.171.138.67/null/mw$462305337/-1_0.zip",
+      "hash": "07c4b5d2481be2648d7686ff51fbc298da3820eb"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.171.138.67/null/mw$462305337/-1_-1.zip",
+      "hash": "249403e2501d91fc2bb0976feec92a87d0093535"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/server_config.txt",
+      "hash": "287435401537a9c3f77b36e640f93da7df77d56e"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/DIM-1/dimension_config.txt",
+      "hash": "9a5690e1c3b9e7fa682cdb554e4bf7f078dcedf6"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/DIM-1/mw$462305337/.lock",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/DIM-1/mw$462305337/0_0.zip",
+      "hash": "1462708d671a18ffc090328d2e1d35db83bc0095"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/DIM-1/mw$462305337/cache_1/0_-1.xwmc",
+      "hash": "68b01107797d60ba8e11f34098c6aef846b65afc"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/DIM-1/mw$462305337/cache_1/-1_0.xwmc",
+      "hash": "07cc57417cc618d70cf47add15913088f92bc2ae"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/DIM-1/mw$462305337/cache_1/0_0.xwmc",
+      "hash": "00ca21d35f8e01439f0c67a0c7c92d08d4e2f1e8"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/DIM-1/mw$462305337/cache_1/-1_-1.xwmc",
+      "hash": "3ab9be2364297ef292e412a1694c6443888d34c4"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/DIM-1/mw$462305337/0_-1.zip",
+      "hash": "3c94d2d48938eca27444f832e38bb76b37039081"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/DIM-1/mw$462305337/caves/1/0_0.zip",
+      "hash": "617f95381be240b8029b54415b995e54b4414783"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/DIM-1/mw$462305337/caves/1/0_-1.zip",
+      "hash": "9743a0297c604cf7f02844ae9ded1395690195fb"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/DIM-1/mw$462305337/caves/1/-1_0.zip",
+      "hash": "458dcd1dd57f0fa0a7136c2f40fe0968d3dfd260"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/DIM-1/mw$462305337/caves/1/-1_-1.zip",
+      "hash": "954ad4a371175cda6e09af3839e775ac9291c400"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/DIM-1/mw$462305337/-1_0.zip",
+      "hash": "5ae6ac0633386da3a493296f967bac717790f37e"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/DIM-1/mw$462305337/-1_-1.zip",
+      "hash": "7bb522532f7983283bb18664aa80a5cc9b54fccc"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/dimension_config.txt",
+      "hash": "a33b2cda96c216eb117bb126578b9564fdc9276c"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/.lock",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/0_0.zip",
+      "hash": "8f5d68b9362a0e09df9848302e7e2bd3f3c6eda1"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/cache_1/0_-1.xwmc.outdated",
+      "hash": "8447811bcec35b98880699e7e93441dba1752949"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/cache_1/-1_-1.xwmc.outdated",
+      "hash": "5f11af52bd23c23daaeff1344ed817394384cce2"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/cache_1/0_0.xwmc.outdated",
+      "hash": "8ae1551e8f69673189975df97d49e2902918ac65"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/cache_1/-1_0.xwmc.outdated",
+      "hash": "4c291f2037caf345f131bc0bb37a35c711ba8b16"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/0_-1.zip",
+      "hash": "ee19486ba8d2ec143d9e2d22ada9618640a6d0c5"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/caves/1/cache_1/-1_0.xwmc",
+      "hash": "737e16b3fdeefc7ebdd76e60869bcd91555c5b2e"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/caves/1/cache_1/-1_-1.xwmc",
+      "hash": "18b8b40c1569837028f45d234d54b728dbadc866"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/caves/1/-1_0.zip",
+      "hash": "2425212917317333d8625b55395050390c8db01a"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/caves/1/-1_-1.zip",
+      "hash": "c876beb7b02aea10d288474cfa591c459279ed7c"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/caves/-4/0_0.zip",
+      "hash": "52e3e1368a11fbbeaac719f4af8b5e445b5338b3"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/caves/-4/cache_1/0_-1.xwmc",
+      "hash": "104a10d5fd7b056c6fcb7742ae694b9b34a2a646"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/caves/-4/cache_1/-1_0.xwmc",
+      "hash": "946da241efad7c590f76e055d7d084f65f1e1d7e"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/caves/-4/cache_1/0_0.xwmc",
+      "hash": "ded4f0d4bee925d99f1c1a90b7f095f9065a0104"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/caves/-4/cache_1/-1_-1.xwmc",
+      "hash": "d2c8f2236ab8179ea94cb8d9f176ae067b23a3db"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/caves/-4/0_-1.zip",
+      "hash": "c010d3919116b4d069f5e127fb8abc3543272abd"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/caves/-4/-1_0.zip",
+      "hash": "40ca97cf109ed6ae8dff02eca0a00e913068f836"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/caves/-4/-1_-1.zip",
+      "hash": "9f71f1c5df074c0a2ef0545833221494eaa3e7d7"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/caves/3/0_0.zip",
+      "hash": "4f1e820655e39e6971123f6b004f9960b4c51fb1"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/caves/3/cache_1/0_-1.xwmc",
+      "hash": "fbed3088f3c507266666cdc261a6244713fb0a2a"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/caves/3/cache_1/-1_0.xwmc",
+      "hash": "5b8a29b4b56a0da5cb7e2aed9436b284a28c896e"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/caves/3/cache_1/0_0.xwmc",
+      "hash": "0611061a1c47c817266ed5f20457efb904aaacb2"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/caves/3/cache_1/-1_-1.xwmc",
+      "hash": "6897356d680400e8620dff88da5d5f344939f136"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/caves/3/0_-1.zip",
+      "hash": "516480e63b8b1d0918cd514a39d171c57e29c9bb"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/caves/3/-1_0.zip",
+      "hash": "ae1911cd40c2ac735dccfc783163d3ddf2474a71"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/caves/3/-1_-1.zip",
+      "hash": "f4e420c884f7a83aac811d6f6d61cbf116dbe33b"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/-1_0.zip",
+      "hash": "4176adadfed3e7877a42967512960f84ed38933a"
+    },
+    {
+      "path": "xaero/world-map/Multiplayer_124.170.238.64/null/mw$462305337/-1_-1.zip",
+      "hash": "b3812f7653a526ec593595c9c757920919fdb843"
+    },
+    {
+      "path": "xaero/minimap/Multiplayer_124.171.138.67/config.txt",
       "hash": "f12eb8a1a627a2c7c2d1be9e92ea2b04559146d1"
     },
     {
-      "path": "command_history.txt",
-      "hash": "c8a1ac5a87080e18d34684d7125df4e405009408"
+      "path": "xaero/minimap/Multiplayer_127.0.0.1/config.txt",
+      "hash": "7c45e5fbc4f99ba7bc754501454f2978cee32792"
     },
     {
-      "path": "local/ftbultimine-client.snbt",
-      "hash": "8f5a3f11c216eeef32c558f41e69837d1666b89b"
+      "path": "xaero/minimap/Multiplayer_124.170.238.64/dim%-1/mw$462305337_1.txt",
+      "hash": "06645dec1981024d42212ebfbb3bf62b596dde2b"
+    },
+    {
+      "path": "xaero/minimap/Multiplayer_124.170.238.64/config.txt",
+      "hash": "d3a7c7356e966e14914d7b65ef32dd8bfb87c298"
+    },
+    {
+      "path": "xaero/minimap/Multiplayer_124.170.238.64/dim%0/mw$462305337_1.txt",
+      "hash": "116ae6f34bddebcd15586cd64056f22b013b754e"
+    },
+    {
+      "path": "servers.dat_old",
+      "hash": "b57929a089100020bb7230dd58c90f1db261891e"
     },
     {
       "path": "mods/do_a_barrel_roll-fabric-3.7.3+1.21.jar",
@@ -48,10 +260,6 @@
     {
       "path": "mods/c2me-fabric-mc1.21.1-0.3.0+alpha.0.317.jar",
       "hash": "4272ff26eec6cd2b03b657cc3c23ea79f9b36c0b"
-    },
-    {
-      "path": "mods/smoothscroll-2.2.1-1.21.1.jar",
-      "hash": "83ce9cb551cfb03569a39a94cbed8686b2e6abc0"
     },
     {
       "path": "mods/EnchantmentLevelBreak-1.21.1-Fabric-1.4.jar",
@@ -308,10 +516,6 @@
     {
       "path": "resourcepacks/FreshAnimations_v1.9.2.zip",
       "hash": "ff18e6a762b87d7e8bad0726ac7d9c153306c6d2"
-    },
-    {
-      "path": "hmclversion.cfg",
-      "hash": "3676ab4a25b4f7b91cb0186ddff13d75047eb2bb"
     }
   ],
   "addons": [
