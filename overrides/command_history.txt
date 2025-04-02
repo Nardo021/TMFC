@@ -1,0 +1,50 @@
+/heal
+/effect give @s minecraft:haste infinite 255 true
+/heal
+/effect give @s minecraft:haste infinite 255 true
+/gmc
+/gms
+/effect give @s minecraft:haste infinite 255 true
+/heal
+/gmc
+/gms
+/fly
+/heal
+/flyspeed 10
+/flyspeed fly
+/flyspeed 2
+/flyspeed 1
+/gms
+/effect give @s minecraft:haste infinite 255 true
+/heal
+/effect give @s minecraft:haste infinite 255 true
+/feed
+/effect give @s minecraft:haste infinite 255 true
+/gmc
+/effect give @s minecraft:strength infinite 255 true
+/gms
+/feed
+/weather c
+/effect give @s minecraft:strength infinite 255 true
+/effect give @s minecraft:haste infinite 255 true
+/feed
+/weather c
+/effect give @s minecraft:haste infinite 255 true
+/effect give @s minecraft:strength infinite 255 true
+/feed
+/fireskull
+/fireball
+/feed
+/firework
+/firework fire 123
+/fix
+/feed
+/gmc
+/effect give @s minecraft:strength infinite 255 true
+/gms
+/feed
+/effect give @s minecraft:strength infinite 255 true
+/effect give @s minecraft:haste infinite 255 true
+/feed
+/function ija-one-block:main
+/heal
